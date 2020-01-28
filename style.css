@@ -1,0 +1,16 @@
+
+    *{
+        transition: all 2s;
+    }
+    i{
+        color:blue
+    }
+    b{
+        color: red;
+        font-size: 120px;
+        position: fixed;
+        bottom:0;
+    }
+    div{
+        background: firebrick
+    }
